@@ -1,6 +1,6 @@
 # Coffee-Shop-Sales
 
-![Sales](https://github.com/Johar2503/Coffee-Shop-Sales/blob/main/Coffee%20Shop%20Sales/coffee_shop_sales.pbix)
+![Sales](https://github.com/Johar2503/Coffee-Shop-Sales/blob/main/Coffee%20Shop%20Sales/Asset/Screenshot%202024-07-27%20192511.png)
 
 ## Project Description
 Building the dashboard for Coffee Shop Sales by creating valuable insights which provide a clear report for stakeholders to easily understand Coffee's recent sales performance and to answer key questions about the Coffee Sales and demand.
