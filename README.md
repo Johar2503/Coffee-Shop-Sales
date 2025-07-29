@@ -1,5 +1,5 @@
 # Coffee-Shop-Sales 
-#https://mavenanalytics.io/project/18811
+# https://mavenanalytics.io/project/18811
 
 ![Sales](https://github.com/Johar2503/Coffee-Shop-Sales/blob/main/Coffee%20Shop%20Sales/Asset/Screenshot%202024-07-27%20192511.png)
 
