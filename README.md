@@ -1,6 +1,5 @@
 # Coffee-Shop-Sales 
-# https://mavenanalytics.io/project/18811
-
+# https://app.powerbi.com/links/M12ioaa_mK?ctid=d73b9eaa-07c9-47c4-a6ce-f13bee0e8117&pbi_source=linkShare
 ![Sales](https://github.com/Johar2503/Coffee-Shop-Sales/blob/main/Coffee%20Shop%20Sales/Asset/Screenshot%202024-07-27%20192511.png)
 
 ## Project Description
