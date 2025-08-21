@@ -1,5 +1,7 @@
 # Coffee-Shop-Sales 
-# https://app.powerbi.com/links/M12ioaa_mK?ctid=d73b9eaa-07c9-47c4-a6ce-f13bee0e8117&pbi_source=linkShare
+
+# https://app.powerbi.com/view?r=eyJrIjoiMmI4YTlhNDktZDUwNy00MTBiLThiNzUtMGU1NzdhZDlmNTdhIiwidCI6ImQ3M2I5ZWFhLTA3YzktNDdjNC1hNmNlLWYxM2JlZTBlODExNyIsImMiOjZ9
+
 ![Sales](https://github.com/Johar2503/Coffee-Shop-Sales/blob/main/Coffee%20Shop%20Sales/Asset/Screenshot%202024-07-27%20192511.png)
 
 ## Project Description
